@@ -9,7 +9,8 @@
 
 ### About Me
 
-<img src="https://tenor.com/2btC.gif" alt="Computer Man" style="width:48px;height:48px;">
+<p><img src="https://tenor.com/2btC.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+The image will float to the right of the text.</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AddinDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
