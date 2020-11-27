@@ -1,7 +1,5 @@
 [![HitCount](http://hits.dwyl.com/AddinDev/AddinDev.svg)](http://hits.dwyl.com/AddinDev/AddinDev)
 
-<iframe src="https://github.com"></iframe>
-
 ### Ohayo!, I'm Addin 👋
 
 - 🔭 I’m a intermediate iOS Developer
