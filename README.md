@@ -2,10 +2,10 @@
 
 ### Ohayo!, I'm Addin 👋
 
-- 🔭 I’m currently looking for internship
-- 🌱 Learns from anyone, currently learning coredata & firebase
-- 🏠 Tarakan, North Kalimantan
-- 📬 How to reach me : <a href="mailto:addinsatria2004@gmail.com">Let's get in touch!</a>
+- 🔭 I’m a intermediate iOS Developer
+- 🌱 Learn from the internet
+- 🏠 Jakarta Pusat
+- 📬 How to reach me : <a href="mailto:addinsatria2004@gmail.com">Contact me!</a>
 
 ### About Me
 
