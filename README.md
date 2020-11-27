@@ -8,7 +8,7 @@
 - 📬 How to reach me : <a href="mailto:addinsatria2004@gmail.com">Let's get in touch!</a>
 
 ### About Me
-![Alt Text](https://tenor.com/view/zero-two-darling-in-the-franxx-anime-kawaii-cute-gif-12874762)
+![Alt Text](https://tenor.com/2btC.gif)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AddinDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
