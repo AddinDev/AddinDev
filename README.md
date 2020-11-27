@@ -9,7 +9,8 @@
 
 ### About Me
 ![Alt Text](https://tenor.com/2btC.gif)
-<img src="https://tenor.com/2btC.gif" width="40" height="40" />
+
+<iframe src="https://giphy.com/embed/Opo8JsQXklVWyX1NOx" width="458" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Opo8JsQXklVWyX1NOx">via GIPHY</a></p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AddinDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
