@@ -10,7 +10,7 @@
 ### About Me
 
 <p align="center">
-   <img src="https://media.giphy.com/media/DxgYCBC9lOHQrZC6ab/giphy.gif" width="500" height="500" />
+   <img src="https://media.giphy.com/media/DxgYCBC9lOHQrZC6ab/giphy.gif" width="400" height="400" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AddinDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddinDev&theme=radical&hide_langs_below=1&layout=compact">
 </p> 
