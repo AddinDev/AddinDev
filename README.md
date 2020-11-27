@@ -8,10 +8,10 @@
 - 📬 How to reach me : <a href="mailto:addinsatria2004@gmail.com">Let's get in touch!</a>
 
 ### About Me
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AddinDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddinDev&theme=radical&hide_langs_below=1&layout=compact">
-  
-  <div class="tenor-gif-embed" data-postid="12874762" data-share-method="host" data-width="100%" data-aspect-ratio="0.9538152610441767"><a href="https://tenor.com/view/zero-two-darling-in-the-franxx-anime-kawaii-cute-gif-12874762">Zero Two Darling In The Franxx GIF</a> from <a href="https://tenor.com/search/zerotwo-gifs">Zerotwo GIFs</a></div>
+ 
 </p>
+
+<div class="tenor-gif-embed" data-postid="13134027" data-share-method="host" data-width="100%" data-aspect-ratio="1.3643835616438356"><a href="https://tenor.com/view/confused-no-nope-gif-13134027">Confused No GIF</a> from <a href="https://tenor.com/search/confused-gifs">Confused GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
