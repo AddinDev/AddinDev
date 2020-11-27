@@ -9,7 +9,7 @@
 
 ### About Me
 
-<div class="tenor-gif-embed" data-postid="12874762" data-share-method="host" data-width="100%" data-aspect-ratio="0.9538152610441767"><a href="https://tenor.com/view/zero-two-darling-in-the-franxx-anime-kawaii-cute-gif-12874762">Zero Two Darling In The Franxx GIF</a> from <a href="https://tenor.com/search/zerotwo-gifs">Zerotwo GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<IMG SRC="https://tenor.com/2btC.gif">
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AddinDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
