@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/ZenRega38/ZenRega38.svg)](http://hits.dwyl.com/ZenRega38/ZenRega38)
+[![HitCount](http://hits.dwyl.com/AddinDev/AddinDev.svg)](http://hits.dwyl.com/AddinDev/AddinDev)
 
 ### Hi there, I'm Rega 👋
 
