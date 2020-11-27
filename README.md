@@ -1,22 +1,7 @@
 [![HitCount](http://hits.dwyl.com/AddinDev/AddinDev.svg)](http://hits.dwyl.com/AddinDev/AddinDev)
 <webview id="foo" src="https://www.github.com/" style="display:inline-flex; width:640px; height:480px"></webview>
-<script>
-  onload = () => {
-    const webview = document.querySelector('webview')
-    const indicator = document.querySelector('.indicator')
+<webview src="https://www.github.com/"></webview>
 
-    const loadstart = () => {
-      indicator.innerText = 'loading...'
-    }
-
-    const loadstop = () => {
-      indicator.innerText = ''
-    }
-
-    webview.addEventListener('did-start-loading', loadstart)
-    webview.addEventListener('did-stop-loading', loadstop)
-  }
-</script>
 
 
 
