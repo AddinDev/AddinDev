@@ -1,10 +1,10 @@
 [![HitCount](http://hits.dwyl.com/AddinDev/AddinDev.svg)](http://hits.dwyl.com/AddinDev/AddinDev)
 
-### Ohayo!, I'm Addin 👋
+### Ohayo!
+### I'm Addin 👋
 
 -  I’m an Intermediate iOS Developer
 -  Internet is my teacher
--  Central Jakarta
 -  How to reach me : 
 <a href="mailto:addinsatria2004@gmail.com">email</a>
 
