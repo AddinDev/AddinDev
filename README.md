@@ -2,10 +2,11 @@
 
 ### Ohayo!, I'm Addin 👋
 
-- 🔭 I’m an intermediate iOS Developer
-- 🌱 Learn from the internet
-- 🏠 Central Jakarta
-- 📬 How to reach me : <a href="mailto:addinsatria2004@gmail.com">addin</a>
+-  I’m an Intermediate iOS Developer
+-  Internet is my teacher
+-  Central Jakarta
+-  How to reach me : 
+<a href="mailto:addinsatria2004@gmail.com">email</a>
 
 ### About Me
 
