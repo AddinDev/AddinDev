@@ -1,7 +1,6 @@
 [![HitCount](http://hits.dwyl.com/AddinDev/AddinDev.svg)](http://hits.dwyl.com/AddinDev/AddinDev)
 
-### Ohayo!
-### I'm Addin 👋
+# Ohayo, Addin desu 👋
 
 -  I’m an Intermediate iOS Developer
 -  Internet is my teacher
