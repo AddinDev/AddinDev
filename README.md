@@ -5,7 +5,7 @@
 -  I’m an Intermediate iOS Developer
 -  Internet is my teacher
 -  How to reach me : 
-<a href="mailto:addinsatria2004@gmail.com">email</a>
+<a href="mailto:addinofficebox@gmail.com">email</a>
 
 ### About Me
 
