@@ -1,9 +1,9 @@
 [![HitCount](http://hits.dwyl.com/AddinDev/AddinDev.svg)](http://hits.dwyl.com/AddinDev/AddinDev)
 
-# Ohayo, Addin desu 👋
+# Whaddup ma man.
 
--  I’m an Intermediate iOS Developer
--  Internet is my teacher
+-  Intermediate iOS Developer
+-  Internet is my 👑
 -  How to reach me : 
 <a href="mailto:addinofficebox@gmail.com">email</a>
 
