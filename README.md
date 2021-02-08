@@ -9,12 +9,12 @@ Since then, I've tried C#, C++, HTML, CSS, Python, Java, Kotlin, and last but no
 \
 I'm a Self-Taught iOS Developer. Internet is my Teacher.
 
-Reach me on: <a href="mailto:addinofficebox@gmail.com">email</a>
+Reach me with: 
+<a href="mailto:addinofficebox@gmail.com">email</a>
+<a href="https://www.linkedin.com/in/addinsatria/">linkedin</a>
+    
+## My Statistic
 
-### My Statistic
-
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="in_ID" data-type="horizontal" data-theme="dark" data-vanity="addinsatria"><a class="LI-simple-link" href='https://id.linkedin.com/in/addinsatria?trk=profile-badge'>Addin Satria</a></div>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=addindev&theme=blueberry&show_icons=true">
