@@ -10,7 +10,9 @@ Since then, I've tried C#, C++, HTML, CSS, Python, Java, Kotlin, and last but no
 I'm a Self-Taught iOS Developer. Internet is my Teacher.
 
 Reach me with: 
+
 <a href="mailto:addinofficebox@gmail.com">email</a>
+
 <a href="https://www.linkedin.com/in/addinsatria/">linkedin</a>
     
 ## My Statistic
