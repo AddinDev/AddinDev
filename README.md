@@ -1,6 +1,11 @@
 [![HitCount](http://hits.dwyl.com/AddinDev/AddinDev.svg)](http://hits.dwyl.com/AddinDev/AddinDev)
 
-# Whaddup ma man.
+# Status
+- Central Jekardah
+- I'm an Intermediate iOS Developer, working on mobile with Swift(UI) and working on the back with firebase.
+- Fullstack iOS Developer Intern at DR Digital Indonesia.
+
+## Whaddup ma man.
 I'm a Mobile Developer, iOS to be precise. I'm a PCMR (PC Master Race) too. 
 \
 I know a lot about computer hardware. Started building up a PC since umm 7 or 8 grade. 
@@ -12,12 +17,12 @@ I've learn coding since 8 grade, my first programming language was VisualBasic 6
 Since then, I've tried C#, C++, HTML, CSS, Python, Java, Kotlin, and last but not least, Swift! Best language ever.
 \
 As a Self-Taught Developer, Internet is my Teacher.
+\
+Almost forget to mention, I'm a beginner Blender 3D Artist.
 
-Reach me with: 
-
-<a href="mailto:addinofficebox@gmail.com">email</a>
-
-<a href="https://www.linkedin.com/in/addinsatria/">linkedin</a>
+Reach me via: 
+- <a href="mailto:addinofficebox@gmail.com">email</a>
+- <a href="https://www.linkedin.com/in/addinsatria/">linkedin</a>
     
 ## My Statistic
 
