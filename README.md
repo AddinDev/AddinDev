@@ -26,7 +26,7 @@ Reach me via:
 - <a href="mailto:addinofficebox@gmail.com">email</a>
 - <a href="https://www.linkedin.com/in/addinsatria/">linkedin</a>
     
-## My Statistic
+### My Statistic
 
 
 <p align="center">
