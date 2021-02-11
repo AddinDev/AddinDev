@@ -19,7 +19,7 @@ Almost forget to mention, I'm a beginner Blender 3D Artist.
 ## Status
 - Central Jekardah
 - I'm an Intermediate iOS Developer, working on mobile with Swift(UI) and working on the back with firebase.
-- Fullstack iOS Developer Intern at DR Digital Indonesia.
+- Intern at DR Digital Indonesia as a Fullstack iOS Developer.
 
 
 Reach me via: 
