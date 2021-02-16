@@ -1,5 +1,10 @@
 [![HitCount](http://hits.dwyl.com/AddinDev/AddinDev.svg)](http://hits.dwyl.com/AddinDev/AddinDev)
 
+# LOOKING FOR INTERNSHIP PLACE, EMAIL <a href="mailto:addinofficebox@gmail.com">ME</a>!
+
+
+
+
 # Whaddup ma man.
 I'm a Mobile Developer, iOS to be precise. I'm a PCMR (PC Master Race) too. 
 \
