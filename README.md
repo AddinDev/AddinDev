@@ -36,6 +36,5 @@ Reach me via:
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=addindev&theme=blueberry&show_icons=true">
-    <img src="https://media.giphy.com/media/DxgYCBC9lOHQrZC6ab/giphy.gif" alt="udinda" width="200" height="200"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addindev&layout=compact&theme=blueberry&show_icons=true">
 </p> 
