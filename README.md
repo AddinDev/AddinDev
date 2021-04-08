@@ -1,28 +1,8 @@
 [![HitCount](http://hits.dwyl.com/AddinDev/AddinDev.svg)](http://hits.dwyl.com/AddinDev/AddinDev)
 
-# LOOKING FOR INTERNSHIP PLACE, EMAIL <a href="mailto:addinofficebox@gmail.com">ME</a>!
-
-
-
-
-# Whaddup ma man.
-I'm a Mobile Developer, iOS to be precise. I'm a PCMR (PC Master Race) too. 
-\
-I know a lot about computer hardware. Started building up a PC since umm 7 or 8 grade. 
-\
-I've started my computer shop on Tokopedia called <a href="https://www.tokopedia.com/addinkomputer">AddinKomputerShop</a>, I'm sellin computer parts and some peripherals, just check it out! 
-\
-I've learn coding since 8 grade, my first programming language was VisualBasic 6.0.
-\
-Since then, I've tried C#, C++, HTML, CSS, Python, Java, Kotlin, and last but not least, Swift! Best language ever.
-\
-As a Self-Taught Developer, Internet is my Teacher.
-\
-Almost forget to mention, I'm a beginner Blender 3D Artist.
-
 
 ## Status
-- Central Jekardah
+- Central Jakarta
 - I'm an Intermediate iOS Developer, working on mobile with Swift(UI) and working on the back with firebase.
 - Intern at DR Digital Indonesia as a Fullstack iOS Developer.
 
