@@ -6,7 +6,7 @@
  [![Commits Badge](https://badges.pufler.dev/commits/weekly/addindev)](https://badges.pufler.dev)
 
 ## Status
-- A student, experienced for more than 3 years in computer hardware and 2 years in software development. Especially in iOS Development. 
+- A student, experienced for more than 4 years in computer hardware and 3 years in software development. Especially in iOS Development. 
 - Fast adapt in a new environment, good learner, see something’s problem and solve it.
 - I'm a junior iOS Developer, working on fmobile with Swift(UI) and working on the back with firebase.
 - Intern at DR Digital Indonesia as an iOS Developer.
