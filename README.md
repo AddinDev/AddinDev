@@ -18,6 +18,7 @@ Hardware:
 
 Software:
 - iOS Development
+- Android Development
 - Web Development
 - Blender 3D
 
